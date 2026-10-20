@@ -1,4 +1,4 @@
-# GMT (Go Migration Tool)
+# GMT (Gorm Migration Tool)
 
 Ferramenta CLI para gerenciar migrações de esquemas de banco de dados e seeds em aplicações Go com [GORM](https://gorm.io).
 
